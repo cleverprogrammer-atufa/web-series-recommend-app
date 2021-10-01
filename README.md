@@ -1,2 +1,2 @@
-# web-series-recommend-app
+# web-series-recommend
 Created with CodeSandbox
